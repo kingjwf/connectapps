@@ -89,9 +89,9 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>54fff741-dc9f-4b71-bd06-0a3b7f86f4ea</string>
+						<string>c5a20590-57c7-477c-98f9-7f4a31894ec4</string>
 						<key>name</key>
-						<string>iOS Team Ad Hoc Provisioning Profile: hxfy.wujiangconnect.VpnTunnel</string>
+						<string>wujiangVpndisadhot</string>
 					</dict>
 					<key>team</key>
 					<dict>
@@ -126,9 +126,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>bc17c01f-f065-43d1-b7d9-3f93b4ad9acb</string>
+				<string>c338dcc8-ec22-49b7-88d0-a52b8f9682a9</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: hxfy.wujiangconnect</string>
+				<string>wujiangdisadhot</string>
 			</dict>
 			<key>team</key>
 			<dict>
