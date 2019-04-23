@@ -1,2 +1,3 @@
 # connectapps
-connect apps url
+connect apps url 
+used ad hot address
