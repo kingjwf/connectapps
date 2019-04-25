@@ -64,7 +64,7 @@
 					<key>entitlements</key>
 					<dict>
 						<key>application-identifier</key>
-						<string>LE4V33Q4KQ.hxfy.wujiangconnect.VpnTunnel</string>
+						<string>LE4V33Q4KQ.wj.wujiangconnect.VpnTunnel</string>
 						<key>com.apple.developer.networking.networkextension</key>
 						<array>
 							<string>app-proxy-provider</string>
@@ -79,7 +79,7 @@
 						<string>LE4V33Q4KQ</string>
 						<key>com.apple.security.application-groups</key>
 						<array>
-							<string>group.hxfy.wujiangconnect</string>
+							<string>group.wj.wujiangconnect</string>
 						</array>
 						<key>get-task-allow</key>
 						<false/>
@@ -89,9 +89,9 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>c5a20590-57c7-477c-98f9-7f4a31894ec4</string>
+						<string>aa529427-869f-47af-a2a0-b28ee0c2cb29</string>
 						<key>name</key>
-						<string>wujiangVpndisadhot</string>
+						<string>iOS Team Ad Hoc Provisioning Profile: wj.wujiangconnect.VpnTunnel</string>
 					</dict>
 					<key>team</key>
 					<dict>
@@ -105,7 +105,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>LE4V33Q4KQ.hxfy.wujiangconnect</string>
+				<string>LE4V33Q4KQ.wj.wujiangconnect</string>
 				<key>com.apple.developer.networking.networkextension</key>
 				<array>
 					<string>app-proxy-provider</string>
@@ -126,9 +126,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>c338dcc8-ec22-49b7-88d0-a52b8f9682a9</string>
+				<string>744a0e6c-4fe4-4168-8827-066dc47e7a25</string>
 				<key>name</key>
-				<string>wujiangdisadhot</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: wj.wujiangconnect</string>
 			</dict>
 			<key>team</key>
 			<dict>
