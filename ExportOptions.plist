@@ -9,7 +9,9 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/kingjwf/connectapps/master/wujiangconnect.ipa</string>
+		<string>https://raw.githubusercontent.com/kingjwf/connectapps/master/manifest.plist
+https://raw.githubusercontent.com/kingjwf/connectapps/master/manifest.plist
+https://raw.githubusercontent.com/kingjwf/connectapps/master/wujiangconnect.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/kingjwf/connectapps/master/57.png</string>
 		<key>fullSizeImageURL</key>
