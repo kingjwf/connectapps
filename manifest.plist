@@ -11,9 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/kingjwf/connectapps/master/manifest.plist
-https://raw.githubusercontent.com/kingjwf/connectapps/master/manifest.plist
-https://raw.githubusercontent.com/kingjwf/connectapps/master/wujiangconnect.ipa</string>
+					<string>https://raw.githubusercontent.com/kingjwf/connectapps/master/wujiangconnect.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
