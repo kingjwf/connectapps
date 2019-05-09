@@ -37,6 +37,56 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>CocoaAsyncSocket.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>LE4V33Q4KQ</string>
+						<key>name</key>
+						<string>HUAXIAFENGYUN Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+						<key>dateExpires</key>
+						<string>2020/3/17</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>PacketProcessor.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>LE4V33Q4KQ</string>
+						<key>name</key>
+						<string>HUAXIAFENGYUN Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+						<key>dateExpires</key>
+						<string>2020/3/17</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>wujiang_sslib.framework</string>
 					<key>team</key>
 					<dict>
@@ -77,10 +127,6 @@
 						</array>
 						<key>com.apple.developer.team-identifier</key>
 						<string>LE4V33Q4KQ</string>
-						<key>com.apple.security.application-groups</key>
-						<array>
-							<string>group.wj.wujiangconnect</string>
-						</array>
 						<key>get-task-allow</key>
 						<false/>
 					</dict>
