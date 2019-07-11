@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+				<string>E5F60FBF5DC1EAC72E096E03F9A80C3A896A4773</string>
 				<key>dateExpires</key>
-				<string>2020/3/17</string>
+				<string>2020/7/10</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -30,9 +30,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+						<string>E5F60FBF5DC1EAC72E096E03F9A80C3A896A4773</string>
 						<key>dateExpires</key>
-						<string>2020/3/17</string>
+						<string>2020/7/10</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -41,9 +41,9 @@
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>LE4V33Q4KQ</string>
+						<string>TXJ3W3U58S</string>
 						<key>name</key>
-						<string>HUAXIAFENGYUN Co., Ltd.</string>
+						<string>XIAOJU WANG</string>
 					</dict>
 				</dict>
 				<dict>
@@ -55,9 +55,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+						<string>E5F60FBF5DC1EAC72E096E03F9A80C3A896A4773</string>
 						<key>dateExpires</key>
-						<string>2020/3/17</string>
+						<string>2020/7/10</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -66,9 +66,9 @@
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>LE4V33Q4KQ</string>
+						<string>TXJ3W3U58S</string>
 						<key>name</key>
-						<string>HUAXIAFENGYUN Co., Ltd.</string>
+						<string>XIAOJU WANG</string>
 					</dict>
 				</dict>
 				<dict>
@@ -80,9 +80,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+						<string>E5F60FBF5DC1EAC72E096E03F9A80C3A896A4773</string>
 						<key>dateExpires</key>
-						<string>2020/3/17</string>
+						<string>2020/7/10</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -91,9 +91,9 @@
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>LE4V33Q4KQ</string>
+						<string>TXJ3W3U58S</string>
 						<key>name</key>
-						<string>HUAXIAFENGYUN Co., Ltd.</string>
+						<string>XIAOJU WANG</string>
 					</dict>
 				</dict>
 				<dict>
@@ -105,16 +105,16 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>BDC7D379F81489305236DF32D3D785C55F919612</string>
+						<string>E5F60FBF5DC1EAC72E096E03F9A80C3A896A4773</string>
 						<key>dateExpires</key>
-						<string>2020/3/17</string>
+						<string>2020/7/10</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
 					<key>entitlements</key>
 					<dict>
 						<key>application-identifier</key>
-						<string>LE4V33Q4KQ.wj.wujiangconnect.VpnTunnel</string>
+						<string>TXJ3W3U58S.wj.wujiangnet.VpnTunnel</string>
 						<key>com.apple.developer.networking.networkextension</key>
 						<array>
 							<string>app-proxy-provider</string>
@@ -126,7 +126,7 @@
 							<string>allow-vpn</string>
 						</array>
 						<key>com.apple.developer.team-identifier</key>
-						<string>LE4V33Q4KQ</string>
+						<string>TXJ3W3U58S</string>
 						<key>get-task-allow</key>
 						<false/>
 					</dict>
@@ -135,23 +135,23 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>6d3eb161-d461-4ea8-8e0e-38896b717301</string>
+						<string>c336fcc9-de49-451f-860d-3c412de011ff</string>
 						<key>name</key>
-						<string>wujiangVpndisadhot</string>
+						<string>iOS Team Ad Hoc Provisioning Profile: wj.wujiangnet.VpnTunnel</string>
 					</dict>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>LE4V33Q4KQ</string>
+						<string>TXJ3W3U58S</string>
 						<key>name</key>
-						<string>HUAXIAFENGYUN Co., Ltd.</string>
+						<string>XIAOJU WANG</string>
 					</dict>
 				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>LE4V33Q4KQ.wj.wujiangconnect</string>
+				<string>TXJ3W3U58S.wj.wujiangnet</string>
 				<key>com.apple.developer.networking.networkextension</key>
 				<array>
 					<string>app-proxy-provider</string>
@@ -162,8 +162,10 @@
 				<array>
 					<string>allow-vpn</string>
 				</array>
+				<key>com.apple.developer.networking.wifi-info</key>
+				<true/>
 				<key>com.apple.developer.team-identifier</key>
-				<string>LE4V33Q4KQ</string>
+				<string>TXJ3W3U58S</string>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
@@ -172,16 +174,16 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>699a8795-03e1-45d7-bd22-f6a786dd2cb9</string>
+				<string>0b162189-f2ca-4b97-a971-5644b106da34</string>
 				<key>name</key>
-				<string>wujiangdisadhot</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: wj.wujiangnet</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>LE4V33Q4KQ</string>
+				<string>TXJ3W3U58S</string>
 				<key>name</key>
-				<string>HUAXIAFENGYUN Co., Ltd.</string>
+				<string>XIAOJU WANG</string>
 			</dict>
 		</dict>
 	</array>

@@ -17,21 +17,12 @@
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>wj.wujiangconnect</key>
-		<string>wujiangdisadhot</string>
-		<key>wj.wujiangconnect.VpnTunnel</key>
-		<string>wujiangVpndisadhot</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>LE4V33Q4KQ</string>
+	<string>TXJ3W3U58S</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
